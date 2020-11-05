@@ -1,0 +1,1 @@
+// FetchAPIを使ってweb apiからデータ取得しますよ
