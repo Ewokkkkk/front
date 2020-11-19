@@ -1,3 +1,5 @@
+"use strict";
+
 let getData = async (url) => {
   const response = await fetch(url);
   const jsonData = await response.json();
